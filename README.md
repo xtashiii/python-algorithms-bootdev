@@ -1,0 +1,1 @@
+solving algorithm exercises in python at [boot.dev](https://www.boot.dev/learn/learn-algorithms)
